@@ -1,0 +1,10 @@
+.center{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.center .showing{
+    font-size: 40px;
+    margin-bottom: 15px;
+}
